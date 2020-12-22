@@ -1,0 +1,15 @@
+#app {
+  margin: auto;
+  width: 40%;
+}
+
+@media only screen and (max-width: 600px) {
+  #app {
+    width: 95%;
+  }
+
+  footer {
+    width: 95%;
+  }
+}
+
