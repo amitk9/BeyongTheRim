@@ -15,7 +15,7 @@ function App() {
     <div className="App" id="app">
       <Router>
         <Switch>
-          <Route path="/">
+          <Route exact path="/">
             <MainMenu />
           </Route>
           <Route exact path="/:phase/:week">
