@@ -1,0 +1,29 @@
+.link-button {
+    background: none !important;
+    border: none;
+    padding: 0 !important;
+    color: royalblue;
+    cursor: pointer;
+    margin-bottom: 2vh;
+    font-weight: bold;
+    font-size: large;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+footer {
+    position: absolute;
+    bottom: 3vh;
+    margin: auto;
+    width: 40%;
+}
+
+.next {
+    font-size: larger;
+}
